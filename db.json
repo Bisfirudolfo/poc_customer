@@ -2,7 +2,7 @@
   "Customers": [
     {
         "BusinesPartner": 8221415,
-        "Name1": "Glover, Sporer and Windler",
+        "Name1": "Glover, Sporer and Windler UPDATE",
         "Name2": "Hackett Inc",
         "Name3": "Russel Group",
         "Name4": "Nienow Inc",
@@ -251,6 +251,27 @@
         "Email": "khadlow2@1688.com",
         "Comments": "morbi quis tortor id nulla ultrices aliquet",
         "ChangeDate": "2020-02-21"
+    },
+    {
+        "BusinesPartner": 7297548,
+        "Name1": "Reichert Inc",
+        "Name2": "Braun Inc",
+        "Name3": "Roberts LLC",
+        "Name4": "Kihn-Batz",
+        "SearchTerm": "SGILLEON4",
+        "Street": "Paget",
+        "HouseNumber": "93",
+        "PostalCode": "8884",
+        "City": "Dolgoderevenskoye",
+        "Country": "RU",
+        "POBoxAddress": "9331",
+        "POBoxPostalCode": "6921",
+        "CompanyPostalCode": "2227",
+        "Telephone": "470-335-7883",
+        "Fax": "266-938-9971",
+        "Email": "enoye4@desdev.cn",
+        "Comments": "quis odio consequat",
+        "ChangeDate": "2019-10-23"
     }
 ],
   "profile": {
