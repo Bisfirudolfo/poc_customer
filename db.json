@@ -2,7 +2,7 @@
   "Customers": [
     {
         "BusinesPartner": 8221415,
-        "Name1": "Glover, Sporer and Windler UPDATE",
+        "Name1": "Glover, Sporer and Windler",
         "Name2": "Hackett Inc",
         "Name3": "Russel Group",
         "Name4": "Nienow Inc",
@@ -34,7 +34,7 @@
         "City": "Nanganumba",
         "Country": "ID",
         "POBoxAddress": "5391",
-        "POBoxPostalCode": "1156",
+        "POBoxPostalCode": "1156 UPDATE",
         "CompanyPostalCode": "6518",
         "Telephone": "749-494-3575",
         "Fax": "609-614-2035",
